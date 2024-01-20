@@ -1,2 +1,3 @@
 # javaBasics
-Java NittyGritty
+This is all about getting rooted in Java
+Understanding everyday basiss.
