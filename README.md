@@ -1,3 +1,3 @@
 # javaBasics
 This is all about getting rooted in Java
-Understanding everyday basiss.
+Understanding everyday basics.
